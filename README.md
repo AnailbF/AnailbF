@@ -1,9 +1,9 @@
-### Hi there 👋
+### Sou Anailb mas podem chamar de Ana,
+Encantada por educação, professora de educação física. Atualmente cursando engenharia de petróleo, membro de pesquisas da [LABIOPRO-UFPA]() e de Projetos -[Tucunaré]()-FENAV-UFPA
 
-<!--
-**AnailbF/AnailbF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono Anailb puoi chiamarmi Ana,
+Incantato dall'educazione, professoressa di educazione fisica. Attualmente studia ingegneria petrolifera, membro della ricerca presso LABIOPRO-UFPA e Projects -Tucunaré-FENAV-UFPA
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
