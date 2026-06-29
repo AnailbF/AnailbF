@@ -1,10 +1,64 @@
-##👋Sou Anailb mas podem chamar de Ana,
-Encantada por educação, professora de educação física. Atualmente cursando engenharia de petróleo, membro de pesquisas da [LABIOPRO-UFPA](https://padlet.com/labiopro_ufpa?fbclid=PAAabYmIN1o7yG-tqexCGk7987CottSC7gGxD7HJuKEreBjzNjYMIzT4dGLOM) e de Projetos -[Tucunaré](https://www.equipetucunare.com/)-FENAV-UFPA
+# 👋 Olá, sou Ana Furttado Ilb Moreira (AnailbF)
 
-##🏫💖Sono Anailb puoi chiamarmi Ana,
-Incantato dall'educazione, professoressa di educazione fisica. Attualmente studia ingegneria petrolifera, membro della ricerca presso LABIOPRO-UFPA e Projects -Tucunaré-FENAV-UFPA
 
-                             
-                             ##🌱🌸I'm Ana, currently learning Data Science, artificial intelligence, machine learning 
-![image](https://user-images.githubusercontent.com/132203869/235383930-4a2495b2-f37f-45e5-a1dd-2e19cd77268c.png)
-![image](https://user-images.githubusercontent.com/132203869/235383959-62eaa2ad-bf76-494e-93b3-9cd1c1d4ffda.png)
+
+Encantada por educação e com uma sólida experiência como professora de educação física, estou em uma jornada de transição para o mundo da **Engenharia de Petróleo** e **Ciência de Dados**. Minha paixão por aprender e resolver problemas me impulsiona a explorar novas fronteiras e aplicar conhecimentos multidisciplinares.
+
+
+
+Atualmente, sou estudante de Engenharia de Petróleo e membro ativo de pesquisas no **LABIOPRO-UFPA** e de projetos no **Tucunaré-FENAV-UFPA**. Estou aprofundando meus conhecimentos em:
+
+
+
+- **Python** 🐍: Linguagem fundamental para análise de dados, machine learning e automação.
+- 
+- **SQL** 📊: Para manipulação e consulta de bancos de dados.
+- 
+- **Jupyter Notebooks** 📝: Ambiente interativo para desenvolvimento e documentação de projetos de dados.
+- 
+- **Ferramentas de Engenharia de Petróleo** 🛢️: Explorando softwares e metodologias específicas da área.
+- 
+
+
+## ✨ Projetos em Destaque
+
+
+
+- **[MODELAGEM-NUM-RICA](https://github.com/AnailbF/MODELAGEM-NUM-RICA)**: Minha pesquisa de conclusão de curso, explorando modelagem numérica aplicada a problemas de engenharia. (Em breve com documentação completa!)
+- 
+- **[gh-actions-importer](https://github.com/AnailbF/gh-actions-importer)**: Um exemplo da minha exploração em automação de fluxos de trabalho com GitHub Actions.
+- 
+
+
+## 🚀 Minha Jornada
+
+
+
+Minha experiência em educação me proporcionou habilidades valiosas em comunicação, didática e resolução de problemas, que agora aplico no contexto da Engenharia e Ciência de Dados. Acredito que a combinação de uma base humanística com o rigor técnico me permite abordar desafios de forma inovadora.
+
+
+
+## 🌐 Conecte-se Comigo
+
+
+
+- **LinkedIn**: [Ana Furtado Moreira Rodrigues](https://www.linkedin.com/in/ana-furtado-moreira-rodrigues-bb4670233)
+- 
+- **Website Tucunaré**: [www.equipetucunare.com/](https://www.equipetucunare.com/)
+- 
+- **Padlet LABIOPRO-UFPA**: [padlet.com/labiopro_ufpa](https://padlet.com/labiopro_ufpa)
+- 
+- **Instagram**: [AnailbF](https://www.instagram.com/invites/contact/?i=1aq2ph53za3wn&utm_content=h18eznu)
+- 
+
+
+---
+
+
+
+
+
+
+
+
+
