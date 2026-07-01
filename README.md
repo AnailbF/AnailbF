@@ -24,7 +24,7 @@ Atualmente, sou estudante de Engenharia de Petróleo e membro ativo de pesquisas
 
 
 
-- **[MODELAGEM-NUM-RICA](https://github.com/AnailbF/MODELAGEM-NUM-RICA)**: Minha pesquisa de conclusão de curso, explorando modelagem numérica aplicada a problemas de engenharia. (Em breve com documentação completa!)
+- **[MODELAGEM-NUM-RICA](https://github.com/AnailbF/MODELAGEM-NUM-RICA)**: Minha pesquisa de conclusão de curso, explorando modelagem numérica aplicada a problemas de engenharia.
 - 
 - **[gh-actions-importer](https://github.com/AnailbF/gh-actions-importer)**: Um exemplo da minha exploração em automação de fluxos de trabalho com GitHub Actions.
 - 
@@ -53,6 +53,8 @@ Minha experiência em educação me proporcionou habilidades valiosas em comunic
 
 
 ---
+
+
 
 
 
