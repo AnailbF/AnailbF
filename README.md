@@ -20,11 +20,29 @@ Atualmente, sou estudante de Engenharia de Petróleo e membro ativo de pesquisas
 - 
 
 
-## ✨ Projetos em Destaque
+## ✨ Projetos em Destaque: Construindo a Minha GitCity
 
 
 
+Minha presença no GitHub é mais do que um portfólio; é a minha **GitCity**, onde cada contribuição constrói um prédio que reflete minha evolução técnica e criatividade. Com o tema **GitCity Cor-de-Rosa**, transformo meu perfil em uma experiência visual única, sincronizada com o fuso horário de Roma, Itália, e destacando meus projetos mais inovadores.
+
+
+
+- **[GitCity Cor-de-Rosa](https://github.com/AnailbF/GitCity)**: Minha cidade 3D personalizada, onde commits se transformam em uma skyline vibrante com temas dinâmicos (dia/noite) em tons de rosa e magenta.
+- 
 - **[MODELAGEM-NUM-RICA](https://github.com/AnailbF/MODELAGEM-NUM-RICA)**: Minha pesquisa de conclusão de curso, explorando modelagem numérica aplicada a problemas de engenharia.
+- 
+- **[monitoramento-tartarugas](https://github.com/AnailbF/monitoramento-tartarugas)**: Sistema de monitoramento ambiental com geocodificação e análise de dados.
+- 
+- **[perfilagem-geofisica-pocos](https://github.com/AnailbF/perfilagem-geofisica-pocos)**: Exemplos sintéticos e visualizações para análise de perfis geofísicos de poços.
+- 
+- **[alerta-critica-dont-go](https://github.com/AnailbF/alerta-critica-dont-go)**: Sistema de alerta crítico e classificação binária para manutenção preditiva.
+- 
+- **[simulacao-energia-maremotriz](https://github.com/AnailbF/simulacao-energia-maremotriz)**: Simulação de geração de energia maremotriz com sensores dinâmicos.
+- 
+- **[monitoramento-marinho-realtime](https://github.com/AnailbF/monitoramento-marinho-realtime)**: Monitoramento marinho em tempo real com processamento de sinais e alertas.
+- 
+- **[calculo-incerteza-volume-petroleo](https://github.com/AnailbF/calculo-incerteza-volume-petroleo)**: Cálculo de incerteza em medições de volume de tanques de petróleo, seguindo normas técnicas.
 - 
 - **[gh-actions-importer](https://github.com/AnailbF/gh-actions-importer)**: Um exemplo da minha exploração em automação de fluxos de trabalho com GitHub Actions.
 - 
@@ -52,7 +70,10 @@ Minha experiência em educação me proporcionou habilidades valiosas em comunic
 - 
 
 
----
+
+
+
+
 
 
 
